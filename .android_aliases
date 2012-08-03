@@ -1,0 +1,3 @@
+alias pgedeploy="bash /Users/cyrus/bin/PhoneGapDevelopment/phoneGapExampleDeploy.sh"
+alias pgedev="bash /Users/cyrus/bin/PhoneGapDevelopment/phoneGapExampleDevelop.sh"
+alias pget="bash /Users/cyrus/bin/PhoneGapDevelopment/togglePhoneGapExampleShared.sh"
