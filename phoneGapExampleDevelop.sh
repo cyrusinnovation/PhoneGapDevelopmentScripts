@@ -1,5 +1,5 @@
 CYRUS_DEV=/Users/cyrus/dev
-DEP_WWW=$CYRUS_DEV/DeployIosApp/www
+DEP_WWW=$CYRUS_DEV/$1/www
 
 if [ -h $DEP_WWW/shared ]
   then
